@@ -1,0 +1,11 @@
+# Node.js and TypeScript files
+node_modules/
+dist/
+build/
+
+
+# Log files
+*.log
+
+# env
+*.env
